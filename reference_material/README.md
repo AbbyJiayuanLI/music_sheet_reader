@@ -3,6 +3,7 @@ This fold contains the reference material we use in this project.
 
 # Reference material:
 * Project Reference:
+
   This project is initally based on the course project by [Prateek Verma/Sevy Harris](https://web.stanford.edu/class/ee368/Project_Spring_1415/index.html) in course [EE368/CS232: Digital Image Processing](https://web.stanford.edu/class/ee368/index.html). 
 
   The project report is uploaded in this folder named 'Sheet Music Reader'. 
