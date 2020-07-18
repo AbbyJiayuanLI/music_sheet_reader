@@ -1,5 +1,5 @@
 # music_sheet_reader
-This is a MATLAB based music sheet reader that can recognize different kinds of music sheet automatically and generate music accordingly. (temporal description)
+This is a MATLAB based music sheet reader that can automatically recognize different kinds of music sheet and generate music accordingly. (temporal description)
 
 # Project Structure
 * Segmentation and Preprocessing
