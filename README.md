@@ -12,7 +12,7 @@ This is a MATLAB based music sheet reader that can recognize different kinds of 
 
 # Milestones
 * Initial Demo with function of:
-  * recognize the clef, key, notes
+  * recognize the clef, key, notes of piano sheet
   * Audio generation with any sound in the correct key
   
 * Additional feature to be added:
