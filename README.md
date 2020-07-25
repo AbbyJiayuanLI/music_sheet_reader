@@ -4,6 +4,7 @@ This is a MATLAB based music sheet reader that can automatically recognize diffe
 # Project Structure
 * Segmentation and Preprocessing
   * Binarization
+  * Staff line detection and removal
 * Object Recognition
 * Audio Synthesis
 
@@ -23,4 +24,3 @@ This is a MATLAB based music sheet reader that can automatically recognize diffe
   * automatic choosing of different instrument according to type of sheet
   * generate audio with midi file output
   
-
