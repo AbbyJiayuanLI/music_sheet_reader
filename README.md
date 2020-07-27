@@ -10,7 +10,7 @@ This is a MATLAB based music sheet reader that can automatically recognize diffe
 
 # Division of Work
 * Jiayuan Li
-* Hanli Chu
+
 
 # Milestones
 * Initial Demo with function of:
