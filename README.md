@@ -3,16 +3,16 @@ This is a MATLAB based music sheet reader that can automatically recognize diffe
 
 # Project Structure
 * Read Image
-* Segmentation and Preprocessing
+* **Segmentation and Preprocessing**
   * Binarization
   * Staff line detection and removal
-* Object Recognition
+* **Object Recognition**
   * Interval Splitting
   * Notes Splitting
   * Clef Identification
   * Key Identification
   * Note Detection
-* Audio Synthesis
+* **Audio Synthesis**
 
 # Division of Work
 * Jiayuan Li
